@@ -1,0 +1,71 @@
+h1 {text-align: center;
+  font-size: 100px;
+  font-family: 'Notable', sans-serif;
+  color: white;
+  text-shadow: 5px 5px 1px #c40e96;
+}
+
+h2 {text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 40px;
+  color: white;
+  text-shadow: 5px 5px 1px #000000;
+}
+
+body {
+background-image: url(https://res.cloudinary.com/simpleview/image/upload/v1546900426/clients/texas/PLACES_Cities_H_HEADER_65a9a668-687e-4dfb-84b6-b4e497aad266.jpg);
+background-position: center;
+background-repeat: no-repeat, repeat;
+background-size: cover;
+padding: 350px;
+}
+
+a:link, a:visited {
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: 32px;
+text-decoration: none;
+text-shadow: 5px 5px 1px #000000;
+display: block;
+padding-left: 130px;
+padding-right: 130px;
+}
+
+a:hover, a:active {
+text-shadow: 20px 20px 20px #ffffff;
+}
+
+p {font-size: 30px;
+color: white;
+text-shadow: 2px 2px 3px #000000;
+}
+
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+li {
+float: left;}
+
+.column {
+float: left;
+padding: 18px;
+width: 30%;
+height: auto;
+}
+
+h3 {
+font-size: 30px;
+color: white;
+text-shadow: 2px 2px 3px #000000;
+text-align: center;
+}
+
+img {
+width: 100%;
+padding: 5px;
+background-color: rgb(255, 255, 255);
+}
